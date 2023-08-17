@@ -1,0 +1,36 @@
+.hello {
+    border: 1px solid black;
+    width: 40%;
+    height: 48px;
+    text-align: center;
+    align-items: center;
+    border-radius: 9px;
+    border: none;
+    background-image: url(img1/rob-potter-E0uOtg96x6c-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background: rgb(128, 14, 153);
+    background: linear-gradient(90deg, rgba(128, 14, 153, 1) 2%, rgba(210, 76, 76, 1) 52%, rgba(207, 117, 117, 1) 83%); */
+    margin-top: 10px;
+    font-weight: 900;
+    font-size: 17px;
+}
+
+button {
+    border-radius: 6px;
+    border: none;
+    /* background-image: url(img1/premium_photo-1670044658893-c50993b20338.avif); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+
+}
+
+input {
+    padding: 5px 20px;
+    border-radius: 8px;
+    border: none;
+}

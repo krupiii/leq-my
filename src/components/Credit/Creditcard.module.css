@@ -1,0 +1,101 @@
+.card {
+    width: 380px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-image: url(./images1/gold-business-card-template-gold-background-with-geometric-patterns-for-the-design-of-your-business-drawings_csp22971891.webp);
+    background-repeat: no-repeat;
+    margin: auto;
+    border: none;
+
+}
+
+.photo img {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.photo {
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    font-size: 18px;
+    color: white;
+    margin-top: 55px;
+    margin-left: 200px;
+    position: absolute;
+    font-weight: bold;
+}
+
+form {
+    max-width: 400px;
+    margin-top: -30px;
+    margin-left: 400px;
+}
+
+.number {
+    color: white;
+    margin-left: 35px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.name {
+    color: white;
+    margin-top: 10px;
+    font-weight: bold;
+    margin-left: 35px;
+}
+
+.date {
+    color: white;
+    float: right;
+    margin-right: 50px;
+    margin-top: -25px;
+    font-weight: bold;
+}
+
+.main {
+    width: 380px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-image: url(./images1/gold-business-card-template-gold-background-with-geometric-patterns-for-the-design-of-your-business-drawings_csp22971891.webp);
+    background-repeat: no-repeat;
+    margin: auto;
+    border: none;
+
+}
+
+.line {
+    background-color: black;
+    height: 40px;
+    width: 330px;
+    position: absolute;
+    margin-left: 16px;
+    margin-top: 30px;
+}
+
+.line1 {
+    background-color: rgb(255, 245, 245);
+    height: 40px;
+    width: 250px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 95px;
+
+}
+
+.line2 {
+    background-color: cornsilk;
+    height: 40px;
+    width: 50px;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 95px;
+}

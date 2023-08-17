@@ -1,0 +1,16 @@
+.tab table,
+th.td {
+    border: 1px solid black;
+    padding: 20px;
+    line-height: 2.25;
+    background-image: url(img1/rob-potter-E0uOtg96x6c-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 17px;
+    color: black;
+}
+
+.tab table {
+    width: 100%;
+    margin-top: 30px;
+}
